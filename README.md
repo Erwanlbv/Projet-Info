@@ -86,7 +86,7 @@ l'alphabet du langage des signes sur une image (moyenne calculée à
 partir de tests réalisés sur 5 dataset "Tests" de 130 (5\*26) photos
 chacun que l'algorithme n'avait jamais vu).
 
-Merci d'avoir pris le temps de lire ce petit résumé portant sur la
+Merci d'avoir pris le temps de lire ce bref résumé portant sur la
 réalisation de notre projet.  
 En vous souhaitant une agréable découverte de cette application,
 
