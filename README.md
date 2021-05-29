@@ -1,8 +1,8 @@
 ## Traducteur du Langage des Signes
 
 
-          Projet réalisé par Adrien DUBOIS, Erwan LE BLÉVEC, Vincent TCHOUMBA et Pierre CHECCHIN dans le cadre du module 
-                                              PRO 3600 de l'école TÉLÉCOM SUDPARIS.
+   Projet réalisé par Adrien DUBOIS, Erwan LE BLÉVEC, Vincent TCHOUMBA et Pierre CHECCHIN 
+               dans le cadre du module PRO 3600 de l'école TÉLÉCOM SUDPARIS.
 
 ![Test](https://github.com/Erwanlbv/Projet-Info/blob/master/NeuralNetwork/src/main/resources/Logo_TSP_Colored.png)
 
