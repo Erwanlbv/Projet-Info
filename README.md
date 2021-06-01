@@ -82,7 +82,7 @@ nos débuts a été une expérience particulièrement enrichissante.
 
 Notre bilan est la création d'un modèle fonctionnel, capable de
 reconnaître avec un taux de réussite de 70% un signe parmis ceux de
-l'alphabet du langage des signes sur une image (moyenne calculée à
+l'alphabet du langage des signes (moyenne calculée à
 partir de tests réalisés sur 5 dataset "Tests" de 130 (5\*26) photos
 chacun que l'algorithme n'avait jamais vu).
 
