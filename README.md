@@ -22,7 +22,7 @@ est justement quelque chose d'aisé en Java. Pour éviter des potentiels
 problèmes de compatibilité nous avons décidé de développer également
 l'IA en Java, via la bibliothèque Deep Java Library (DJL) récemment mise
 en ligne par Amazon (plus d'informations sur cette bibliothèque à
-l'adresse suivante [https://djl.ai](https://djl.ai).
+l'adresse suivante : [https://djl.ai](https://djl.ai)).
 
 ### Utilisation 
 
